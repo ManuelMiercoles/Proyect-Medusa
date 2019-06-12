@@ -1,0 +1,8 @@
+W - Movimiento hacia arriba
+S - Hacia abajo
+A - Izquierda
+D - Derecha
+
+Rotacion de jugador - Jugador apunta hacia donde esta posicionado el cursor del raton.
+
+Click Izquierda = Disparar
